@@ -1,0 +1,64 @@
+body {
+	background-image: url(../img/kd.gif);
+	background-size: 100%;
+	color: #FFFFFF;
+}
+
+#content {
+	width: 500px;
+	margin: auto;
+	padding-top: 50px;
+}
+
+#content h3 {
+	text-align: center;
+	font-size: 1.5em;
+	padding-bottom: 20px;
+}
+
+#content input {
+	padding: 8px;
+	display: block;
+	width: 98%;
+	outline: none;
+	color: #464646;
+	font-size: 0.8125em;
+	font-family: Arial, Helvetica, sans-serif;
+	border: 1px solid rgba(85, 85, 85, 0.19);
+	-webkit-appearance: none;
+	margin: 10px 0;
+}
+
+#content textarea {
+	padding: 8px;
+	display: block;
+	width: 98%;
+	outline: none;
+	color: #464646;
+	font-size: 0.8125em;
+	font-family: Arial, Helvetica, sans-serif;
+	border: 1px solid rgba(85, 85, 85, 0.19);
+	-webkit-appearance: none;
+	resize: none;
+	height: 120px;
+}
+
+.mybutton {
+	width: 50%;
+	text-align: center;
+	background: #FFFFFF;
+	color: #333;
+	padding: 15px 40px;
+	font-size: 0.875em;
+	display: block;
+	cursor: pointer;
+	margin-top: 20px;
+	border: none;
+}
+.mybutton:hover{
+	background-color: #00508A;
+	color: #ffffff;
+}
+#bottom{
+	margin-top: 78px;
+}
